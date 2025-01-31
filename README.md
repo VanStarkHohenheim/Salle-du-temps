@@ -39,7 +39,7 @@ Les exercices couvrent plusieurs aspects de C# :
 - Les fichiers incluent des commentaires pour expliquer le code.
 - Exemple de structure du dépôt :
   ```bash
-  ma salle du temps/
+  ma-salle-du-temps/
   ├── Exercice1.cs/
   ├── Exercice2.cs/
 ```
